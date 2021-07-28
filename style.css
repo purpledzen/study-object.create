@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.colorizedBtn {
+    background-color: aqua;
+    border: 2px solid red;
+}
